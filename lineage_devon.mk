@@ -27,3 +27,6 @@ BUILD_FINGERPRINT := "motorola/devon_g/devon:12/S2SNS32.34-60-6/3726f-2b0264:use
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=devon_g \
     PRIVATE_BUILD_DESC="devon_g-user 12 S2SNS32.34-60-6 3726f-2b0264 release-keys"
+
+# Rising props
+RISING_MAINTAINER := FPSensor&Dhruv00
